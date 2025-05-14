@@ -1,0 +1,5 @@
+http://localhost:1000/users/8631 => 8631 => id => query parameter
+
+http://localhost:1000/users?email=ram1@gmail.com
+
+?email=ram1@gmail.com => query string 
