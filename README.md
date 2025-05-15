@@ -1,12 +1,27 @@
-# React + Vite
+# Kedila fashion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Output
+![Screenshot 2025-05-14 181447](https://github.com/user-attachments/assets/c152ae2e-dd90-4b8c-9a6a-2b80fffe830d)
+![Screenshot 2025-05-14 181640](https://github.com/user-attachments/assets/df1ce831-37d6-4b4d-ac74-6a92ef343951)
+![Screenshot 2025-05-14 181735](https://github.com/user-attachments/assets/51847cf6-3189-469a-83b9-98cdbc4ddc73)
+![Screenshot 2025-05-14 182307](https://github.com/user-attachments/assets/a42bda01-b3e1-4cee-a32e-d00f8338ebbb)
+![Screenshot 2025-05-14 182441](https://github.com/user-attachments/assets/6042274d-60ff-454e-8808-062e92ad2ba6)
+![Screenshot 2025-05-14 182620](https://github.com/user-attachments/assets/41240b62-a9d1-4576-afa4-c04b95f79fdc)
+![Screenshot 2025-05-14 182908](https://github.com/user-attachments/assets/79417daa-3bd7-4dba-8a1a-d0731858661f)
+![Screenshot 2025-05-14 183020](https://github.com/user-attachments/assets/e1cb3440-04d7-49e5-aebb-6dff887cf571)
+![Screenshot 2025-05-14 183219](https://github.com/user-attachments/assets/f50e6937-f539-46f9-9a82-8e0a17083fcc)
+![Screenshot 2025-05-14 183420](https://github.com/user-attachments/assets/b9b2a2a3-9bde-448b-a3b2-852766280e22)
+![Screenshot 2025-05-14 183525](https://github.com/user-attachments/assets/f397a4c5-3cd2-4572-a682-802026cc2d4d)
+![Screenshot 2025-05-14 184017](https://github.com/user-attachments/assets/eea0c183-a594-4c84-87fb-c34d667c2792)
+![Screenshot 2025-05-14 184129](https://github.com/user-attachments/assets/ecf685e6-4ed0-41e0-a1a0-d94d03c0e4dd)
+![Screenshot 2025-05-14 184237](https://github.com/user-attachments/assets/46786284-c735-4e99-850e-c1e49f899360)
+![Screenshot 2025-05-14 184431](https://github.com/user-attachments/assets/e81556b4-d632-4f8d-973e-32ef755f9da8)
+![Screenshot 2025-05-14 184606](https://github.com/user-attachments/assets/cb1935c4-79a9-42ed-8771-9d5bd81d9fd0)
+![Screenshot 2025-05-14 184817](https://github.com/user-attachments/assets/2ca0ac2f-fec6-490f-8b67-5f7d79c49065)
+![Screenshot 2025-05-14 184943](https://github.com/user-attachments/assets/f839eebc-cb88-4965-8c69-1d3d5806e9ae)
+![Screenshot 2025-05-14 185106](https://github.com/user-attachments/assets/f8054458-45ee-4d29-848f-9db25c1975e1)
+![Screenshot 2025-05-14 185311](https://github.com/user-attachments/assets/51e83065-3c9f-48db-af98-4f65b1e3f055)
+![Screenshot 2025-05-14 185413](https://github.com/user-attachments/assets/886f6d1e-cd80-4b43-86ff-a036aa846d0d)
+![Screenshot 2025-05-14 185637](https://github.com/user-attachments/assets/4710218e-7b27-473a-9758-9ff6af5c48b6)
+![Screenshot 2025-05-14 185948](https://github.com/user-attachments/assets/ed321e38-12ab-4a1f-a4a1-b72ad982d734)
+![Screenshot 2025-05-14 190043](https://github.com/user-attachments/assets/ea800b58-e5c3-4d80-af8f-254cdc1b0355)
